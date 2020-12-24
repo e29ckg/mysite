@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "\\\\server\\www\\config"
+		},
+		{
+			"path": "\\\\server\\www\\models"
+		},
+		{
+			"path": "\\\\server\\www\\api"
+		}
+	],
+	"settings": {}
+}
